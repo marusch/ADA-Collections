@@ -1,0 +1,11 @@
+add() - añade
+remove() - elimina
+size() - tamaño
+get(posicion) - obtiene
+indexOf() - posicion de un elemento
+clear() - elimina los elementos
+isEmpaty() - indica si esta vacia
+sort() - Ordena
+reverse() - invierte
+max() - maximo elemento
+min() - min elemento  
