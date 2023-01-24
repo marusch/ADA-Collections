@@ -1,0 +1,7 @@
+EJERCICIO ll Collections
+
+📌
+En el main:
+- Creamos una Lista con 5 nombres
+Recordemos que tenemos que llamar a nuestro Objeto Lista segun el nombre que le proporcionamos
+De manera dinamica, es decir  que el usuario pueda ingresar la cantidad de nombres que quiera en la lista, aplicaremos la logica para pedirlos y luego mostrarlo por pantalla.

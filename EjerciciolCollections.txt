@@ -1,0 +1,10 @@
+Empecemos con Listas 🤓
+
+📌 Para tener en cuenta, crear una lista: 
+   List<Integer> ListaNumeros = new ArrayList<Integer>();
+
+En el main:
+- Creamos una Lista con 7 numeros asignados de manera directa con el metodo add();
+Recordemos que tenemos que llamar a nuestro Objeto Lista segun el nombre que le proporcionamos, y ahi añadir uno a uno.
+
+- Luego crearemos una segunda Lista de numeros de manera dinamica, es decir  que el usuario pueda ingresar la cantidad de numeros que quiera en la lista, y luego mostrarla por pantalla.
