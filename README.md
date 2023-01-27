@@ -11,5 +11,7 @@ Desarrollo de ejemplos y ejercicios trabajados en clase.
 
 📁 - En Collectionll - tenemos el ejemplo de agregar elementos de manera dinamica a una lista, con la impresion de manera tradicional y con el for each.
 
+📁 - Y los ejercicios practicos.
+
 
 
